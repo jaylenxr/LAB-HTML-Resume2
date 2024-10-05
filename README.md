@@ -3,7 +3,7 @@
 ## Get Started
 - [Clone](https://nss-evening-curriculum.netlify.app/client/08-clone-github-repos) this repo into `~/workspace/foundations/inclass/`
 - Make setup branch with `index.html, main.css, main.js` files
-- Change background color of `index.html` 
+- Change background color of `index.html`
 - Add a console log in `main.js`
 - TEST YOUR CODE, then Push to GitHub, create a PR, and merge to main
 
@@ -22,4 +22,4 @@ You will be building an HTML version of your resume
 - Site should have a background color or background image. Images google filtered for "Royalty Free"
 - Each article should have a different border(weight,style,color).
 
-NOTE: If you have less than two previous employers, either use your educational instituions as a substitute or make them up.
+NOTE: If you have less than two previous employers, either use your educational institutions as a substitute or make them up.
