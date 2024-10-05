@@ -1,3 +1,130 @@
 body {
-  background-color: teal;
+  font-family: 'Cormorant Garamond';
+  background: linear-gradient(45deg, #69aec4 0%, #a7c280 100%) ;
+  background-position: center;
+  background-attachment: fixed;
+}
+  hr { border-color: rgb(15, 115, 80);
+  }
+
+header h1{
+  font-family: 'Cormorant Garamond', cursive;
+  -webkit-text-stroke-width: 0.05px;
+  -webkit-text-stroke-color: rgb(5, 70, 61);
+  font-weight: 600;
+  font-size: 56px;
+  background-image:linear-gradient(to right, #97bd86 45%, #0b2e13d1);
+  background-clip: text;
+  color: transparent;
+  text-align: center;
+  -webkit-background-clip: text;
+  line-height: 1.45;
+  margin-top:20px;
+  margin-bottom:10px;
+}
+h2 {
+  background-image:linear-gradient(to right, #2c4421 45%, #0b2e13d1);
+  background-clip: text;
+  color: transparent;
+  -webkit-background-clip: text;
+  text-align: left;
+
+}
+h4 {
+  text-align: center;
+  margin: top 20;
+  margin: bottom 10x;
+  color: rgba(9, 46, 51, 0.946);
+
+}
+
+article {
+  text-align: left;
+  line-height: 0;
+  margin-top:20px;
+  margin-bottom:10px;
+  font-size: 18px;
+}
+
+.list-group {
+  border: #0035c7;
+  border-width: 5px;
+  border-style: dotted;
+  padding: 1em;
+  margin: 0 -1em;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+.work {
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+
+.list-group2 {
+  border: rgb(19, 111, 176);
+  border-width: 4px;
+  border-style: double;
+  padding: 1em;
+  margin: 0 -1em;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.list-group3 {
+  border: #329cac;
+  border-width: 6px;
+  border-style: groove;
+  padding: 1em;
+  margin: 0 -1em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.list-group4 {
+  border: #2dcec5;
+  border-width: 8px;
+  border-style: ridge;
+  padding: 1em;
+  margin: 0 -1em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.list-group5 {
+  border: #32c585;
+  border-width: 8px;
+  border-style: inset;
+  padding: 1em;
+  margin: 0 -1em;
+  font-family: Papyrus, fantasy;
+}
+
+.list-group6 {
+  border: #32ac42;
+  border-width: 8px;
+  border-style: solid;
+  padding: 1em;
+  margin: 0 -1em;
+  font-family: cursive;
+}
+
+
+  h6 {font-style: italic;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 0;
+}
+
+em {
+  font-style: italic;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 0;
+}
+
+h5 {
+  margin: 15;
+  line-height: 1;
+  font-weight: bolder;
+
+}
+
+ul {
+line-height: 1;
 }
